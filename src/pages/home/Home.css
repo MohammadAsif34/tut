@@ -1,0 +1,7 @@
+.home {
+  width: 100%;
+  height: calc(100vh - 84px);
+  /* padding: 5px; */
+  background-color: teal;
+  /* border: 1px solid black; */
+}
